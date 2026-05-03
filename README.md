@@ -1,7 +1,8 @@
 # my favorite KIMBLUE
 my favorite KimBlue
 
-![메인 스크린샷](<img width="338" height="326" alt="스크린샷 2026-05-03 160849" src="https://github.com/user-attachments/assets/cc1ec308-0279-4130-bf4a-e33757fc4e5c" />)
+<img width="338" height="326" alt="스크린샷 2026-05-03 160849" src="https://github.com/user-attachments/assets/d46e49e5-3f14-4530-a035-3c307ad4578d" />
+
 
 ## I wanted to let the world know about Kim Blue
 
