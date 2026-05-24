@@ -10,7 +10,7 @@ I don't know.
 
 I I ordered it from coding academy.
 
-## 접근 방법
+## 접근하는 방법
 
 인터넷에 김블루라고 칩니다.
 유튜브에 김블루라고 쳐야됩니다.
