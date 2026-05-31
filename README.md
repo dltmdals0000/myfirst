@@ -1,5 +1,8 @@
 # my favorite KIMBLUE
-my favorite KimBlue
+my favorite KimBlue.
+I love him.
+He is ranker of ASIA.
+He is Korean.
 
 <img width="338" height="326" alt="스크린샷 2026-05-03 160849" src="https://github.com/user-attachments/assets/d46e49e5-3f14-4530-a035-3c307ad4578d" />
 
